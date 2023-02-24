@@ -1,6 +1,6 @@
 # ChatApp
 
-Simple chat app with react front-end + rails api back-end w/ actioncable.
+Simple chat app with react frontend + rails api backend w/ actioncable.
 
 ![Chat app demo](public/chat-app.gif)
 
